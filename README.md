@@ -207,7 +207,7 @@ MIT
 
 ## 👨‍💻 Autor
 
-Desenvolvido por [Seu Nome](https://github.com/seu-usuario)
+Desenvolvido por [lucas fernando da silva santos ](https://github.com/lucas173939)
 
 ## 💬 Contribuições
 
