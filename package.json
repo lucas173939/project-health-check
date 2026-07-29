@@ -1,0 +1,31 @@
+{
+  "name": "@seu-usuario/project-health-check",
+  "version": "1.0.0",
+  "description": "CLI tool para analisar a saúde de projetos Node.js",
+  "main": "src/index.js",
+  "bin": {
+    "project-health-check": "./bin/cli.js"
+  },
+  "scripts": {
+    "start": "node bin/cli.js",
+    "test": "node --test src/**/*.test.js"
+  },
+  "keywords": [
+    "cli",
+    "health-check",
+    "dependencies",
+    "vulnerabilities",
+    "npm",
+    "audit"
+  ],
+  "author": "Seu Nome",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "commander": "^12.0.0",
+    "ora": "^8.0.0"
+  },
+  "devDependencies": {
+    "node-test": "^1.0.0"
+  }
+}
